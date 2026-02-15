@@ -1,0 +1,19 @@
+{
+  "processName": "Game",
+  "toggles": [
+    {
+      "name": "Infinite Health",
+      "description": "Example patch: replace with your real address + bytes.",
+      "address": "0x01234567",
+      "on": "90 90",
+      "off": "89 50"
+    },
+    {
+      "name": "Infinite Ammo",
+      "description": "Another example patch.",
+      "address": "0x07654321",
+      "on": "90 90 90",
+      "off": "29 83 20"
+    }
+  ]
+}
